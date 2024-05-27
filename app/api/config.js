@@ -1,5 +1,4 @@
-export const BASE_URL = 'http://localhost:3001/api'
-
+export const BASE_URL = 'https://frontend-zhuravlevilya.nomoredomainswork.ru'
 export const endpoints = {
   games: `${BASE_URL}/games`,
   auth: `${BASE_URL}/auth/login`,
