@@ -1,4 +1,4 @@
-export const BASE_URL = ["localhost:3001/api", 
+export const BASE_URL = ["http://localhost:3001/api", 
 "https://pindie-zhuravlevilya.nomoredomainswork.ru/api",
   "http://pindie-zhuravlevilya.nomoredomainswork.ru/api"]
 
